@@ -1,0 +1,6 @@
+__pycache__/
+.vscode/
+Python/__pycache__/
+C++/main.exe
+foobar.py
+test.py
